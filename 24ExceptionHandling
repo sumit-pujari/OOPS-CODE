@@ -1,0 +1,7 @@
+TRY : It represent a block of code that may through
+      a exception placed inside the try block.
+
+Catch:It represent a block of code that is executed when a particular exception is 
+         thrown from the try block.
+
+Throw: An exception in c++ can be thrown using the throw keyword

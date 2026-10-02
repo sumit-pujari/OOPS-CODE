@@ -1,8 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 class object{
-    int a;
+    //int a;
     char c;
+    char d;
 };
 int main(){
     object o1;
